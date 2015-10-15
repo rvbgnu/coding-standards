@@ -11,4 +11,4 @@ Copy the file ```joomla_phpstorm.xml``` to:
  	- Linux ```~/.WebIdeXX/config/codestyles/Joomla.xml```
 
 ### References
-* PHPStorm http://www.jetbrains.com/phpstorm/webhelp/code-style-xml.html
+* PHPStorm https://www.jetbrains.com/phpstorm/help/code-style.html
